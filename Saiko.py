@@ -43,7 +43,7 @@ BANNER = rf"""
   {B}VERSION{W}  = 0.2
   {B}Made By{W}  = Team S-H-T 
   {B}Website{W}  = http://saikohackerteamrm.free.nf
-  {B}Telegram{W}  = https://t.me/rm7669
+  {B}Telegram{W} = https://t.me/rm7669
   {B}Github{W}   =  https://github.com/saikohackerteamrm
 """
 os.system("xdg-open https://www.facebook.com/profile.php?id=61551487702871&mibextid=ZbWKwL")
